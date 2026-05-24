@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project: Results (generated experiment outputs, ~75MB)
+results/
+
+# Project: Generated images in draft
+draft/*.png
+draft/*.jpg
+draft/*.jpeg
+draft/*.gif
+
+# OpenCode local tooling (not needed for open source)
+.opencode/
+
+# Python virtual environment
+.venv/
+venv/
+env/

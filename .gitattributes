@@ -1,0 +1,16 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Python source files
+*.py text diff=python
+
+# CSV data files
+*.csv text
+
+# Markdown documentation
+*.md text
+
+# Config files
+*.txt text
+*.cfg text
+*.ini text

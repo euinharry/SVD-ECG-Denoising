@@ -1,0 +1,15 @@
+﻿# Core scientific computing
+numpy
+scipy
+
+# Data handling
+pandas
+
+# Machine learning utilities
+scikit-learn
+
+# Visualization
+matplotlib
+
+# Optional: Automatic rank estimation (elbow detection)
+kneed
